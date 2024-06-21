@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UK8DUvExoodOqC+HROOddSzOiiG0mxc+rE1tGzRtaAfJzRiQyJU0WLEEgnKcVmbzcnCanvMpLGD6NAbo1aaqsw==",
+  "dgSpecHash": "Gotkv0d2g3la5MxK3v1QVlbhR8sWBe6W0ElyWu7nKtXtfMfX6XJ2ek9MWb/chx63s8VPWynFufCKZRXdB5hzfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\Github Repo\\.NET-Learning\\SecureWebApp\\SecureWebApp\\SecureWebApp.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Github Repo\\SecureWebSolutions\\SecureWebApp\\SecureWebApp\\SecureWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\mailkit\\4.6.0\\mailkit.4.6.0.nupkg.sha512",
