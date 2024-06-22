@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SecureRolesWebApp",
+    "\\SecureRolesWebApp\\Controllers",
+    "\\SecureRolesWebApp\\Entities",
+    "\\SecureRolesWebApp\\Filters",
+    "\\SecureRolesWebApp\\Helpers"
+  ],
+  "SelectedNode": "\\SecureRolesWebApp\\Filters\\AuthroizeAttribute.cs",
+  "PreviewInSolutionExplorer": false
+}

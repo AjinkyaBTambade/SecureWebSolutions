@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecureWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ad4f8c4ac84c5cba44f1168f72c535fd992fe8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51e91983a65d81b48a291ed65157205f075b230")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecureWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecureWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
